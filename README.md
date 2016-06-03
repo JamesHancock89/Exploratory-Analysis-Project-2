@@ -41,6 +41,6 @@ Shown by plot 5
 
 •Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California. Which city has seen greater changes over time in motor vehicle emissions?
 
-Shown by plot 5
+Shown by plot 6
 
 
